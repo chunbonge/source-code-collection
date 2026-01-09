@@ -9,4 +9,4 @@
 ## 보관되어있는 프로젝트 목록들
 - The Magic Camera(Unity) - 2022
 - Hoseo Arcade(Unity) - 2023
-- Current Project - 2025.07 ~
+- Starship:The Trinity[Current Project] (Unity) - 2025.07 ~
